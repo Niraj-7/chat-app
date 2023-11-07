@@ -13,7 +13,7 @@ For development, you will need Node.js and install the packages using
 
     $ git clone https://github.com/Niraj-7/chat-app
     $ cd chat-app
-    $ yarn install
+    $ npm install
 
 
 ## Running the project
